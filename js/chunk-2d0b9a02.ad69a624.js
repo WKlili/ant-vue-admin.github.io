@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b9a02"],{"346a":function(n,e,a){"use strict";a.r(e);var t=function(){var n=this,e=n.$createElement,a=n._self._c||e;return a("div",[n._v("dashboard")])},o=[],s={name:"DashboardIndex"},u=s,d=a("2877"),i=Object(d["a"])(u,t,o,!1,null,null,null);i.options.__file="index.vue";e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0b9a02.ad69a624.js.map
